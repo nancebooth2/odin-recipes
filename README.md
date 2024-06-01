@@ -1,0 +1,1 @@
+This project is a review of the HTML skills that I have learned with The Odin Project. 
